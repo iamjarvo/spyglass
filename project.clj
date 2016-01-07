@@ -3,7 +3,7 @@
   :url "http://github.com/clojurewerkz/spyglass"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.6.0"]
+  :dependencies [[org.clojure/clojure "1.7.0"]
                  [net.spy/spymemcached "2.11.4"]
                  [com.couchbase.client/java-client "2.0.0"]]
   :repositories {"sonatype" {:url "http://oss.sonatype.org/content/repositories/releases"
